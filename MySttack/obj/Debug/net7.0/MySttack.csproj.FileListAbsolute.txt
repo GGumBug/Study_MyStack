@@ -1,0 +1,15 @@
+/Users/minki/Charp_Projects/MySttack/MySttack/bin/Debug/net7.0/MySttack
+/Users/minki/Charp_Projects/MySttack/MySttack/bin/Debug/net7.0/MySttack.deps.json
+/Users/minki/Charp_Projects/MySttack/MySttack/bin/Debug/net7.0/MySttack.runtimeconfig.json
+/Users/minki/Charp_Projects/MySttack/MySttack/bin/Debug/net7.0/MySttack.dll
+/Users/minki/Charp_Projects/MySttack/MySttack/bin/Debug/net7.0/MySttack.pdb
+/Users/minki/Charp_Projects/MySttack/MySttack/obj/Debug/net7.0/MySttack.csproj.AssemblyReference.cache
+/Users/minki/Charp_Projects/MySttack/MySttack/obj/Debug/net7.0/MySttack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/minki/Charp_Projects/MySttack/MySttack/obj/Debug/net7.0/MySttack.AssemblyInfoInputs.cache
+/Users/minki/Charp_Projects/MySttack/MySttack/obj/Debug/net7.0/MySttack.AssemblyInfo.cs
+/Users/minki/Charp_Projects/MySttack/MySttack/obj/Debug/net7.0/MySttack.csproj.CoreCompileInputs.cache
+/Users/minki/Charp_Projects/MySttack/MySttack/obj/Debug/net7.0/MySttack.dll
+/Users/minki/Charp_Projects/MySttack/MySttack/obj/Debug/net7.0/refint/MySttack.dll
+/Users/minki/Charp_Projects/MySttack/MySttack/obj/Debug/net7.0/MySttack.pdb
+/Users/minki/Charp_Projects/MySttack/MySttack/obj/Debug/net7.0/MySttack.genruntimeconfig.cache
+/Users/minki/Charp_Projects/MySttack/MySttack/obj/Debug/net7.0/ref/MySttack.dll
